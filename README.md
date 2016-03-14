@@ -1,2 +1,2 @@
 # WEarth
-Welcome to the WEarth.
+Welcome to WEarth.
